@@ -1,0 +1,42 @@
+
+body {
+background: #f7f7f7;
+color: #333333;
+font-family: "DM Sans", sans-serif;
+}
+
+h1, h2 {
+font-family: "DM Serif Display", serif;
+}
+
+section,header { 
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+}
+h1 {
+    font-size: 7.594rem;
+    margin-top: 2em;
+}
+h2 {
+    font-size: 2.250rem;
+    margin: 3em 0 1em 0;
+}
+
+header p { 
+  font-family: "DM Sans", sans-serif;
+  font-size: 1.500rem;
+  color:#286575;
+}
+
+blockquote{ 
+    font-family: "DM Sans";
+
+}
+
+p, blockquotes {
+    margin-bottom: 1.5rem;
+    line-height: 1.5rem; 
+}
+
+
